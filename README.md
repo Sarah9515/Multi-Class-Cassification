@@ -39,12 +39,21 @@ GridSearch tool from sklearn library will be utilized to choose the best hyperpa
 
 Loss and accuracy metrics will be plotted against epochs for both training and test datasets. Interpretations will be provided based on the trends observed in the graphs.
 
+![Screenshot 2024-03-10 194722](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/55980192-65ca-4adf-8ad8-673ffb59dc84)
+
+![Screenshot 2024-03-10 194751](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/b9f91fb8-128d-4622-832d-ea5c70e6152f)
+
+
+
 ## 7. Performance Metrics Calculation
 
 Metrics such as accuracy, sensitivity, F1 score, etc., will be calculated on both training and test datasets to evaluate the model's performance.
 
+![Screenshot 2024-03-10 194805](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/aed79f27-cf6d-4f53-a3d8-89d954152a87)
+
+
 ## 8. Regularization Techniques
 
-Several regularization techniques such as dropout, L1/L2 regularization, and batch normalization will be applied to the architecture. The results obtained with the regularized model will be compared with the initial model to analyze improvements in performance and generalization.
+Regularization techniques are pivotal in mitigating overfitting, a common issue in machine learning models where the algorithm fits too closely to the training data, leading to poor generalization on unseen data. These techniques introduce constraints to the model's optimization process, promoting simpler and more generalized solutions. L1 and L2 regularization, also known as Lasso and Ridge regularization, respectively, impose penalties on the model's coefficients during training, encouraging smaller weights and reducing the model's sensitivity to individual data points. Dropout, another widely used technique, randomly deactivates a fraction of neurons during training, forcing the network to learn redundant representations and enhancing its robustness. Regularization techniques play a crucial role in achieving better model performance, improving generalization, and ensuring models are better equipped to handle diverse datasets and real-world scenarios.
 
 By following these steps, we aim to develop an efficient deep learning model for multi-class classification on the Predictive Maintenance Dataset.
