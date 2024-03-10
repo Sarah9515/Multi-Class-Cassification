@@ -5,16 +5,23 @@ In this project, we aim to perform multi-class classification using the Predicti
 ## 1. Data Preprocessing
 
 We'll use various preprocessing techniques to clean and standardize/normalize the dataset. This involves handling missing values, encoding categorical variables, and scaling numerical features.
-![Screenshot 2024-03-10 192213](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/9505a37e-7d12-42d2-82eb-7cbe32b6beb2)
+![Screenshot 2024-03-10 192838](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/1a8b8aec-2dde-4ff8-a477-47fd324ad208)
+
+![Screenshot 2024-03-10 192931](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/e24ce45d-4304-4498-a48c-b5276db0089a)
 
 
 ## 2. Exploratory Data Analysis (EDA)
 
 EDA techniques will be applied to gain insights into the dataset's structure, distribution of features, relationships between variables, and potential patterns.
+![Screenshot 2024-03-10 192213](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/9505a37e-7d12-42d2-82eb-7cbe32b6beb2)
+
+![Screenshot 2024-03-10 192349](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/33d377b3-5b28-408d-9a60-006b01a77928)
 
 ## 3. Data Augmentation
 
 To address class imbalance, data augmentation techniques such as oversampling, undersampling, or synthetic data generation will be applied to balance the dataset.
+![Screenshot 2024-03-10 192442](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/8e42d9e7-8e8d-4259-bc16-0b5fef7b99fc)
+So we need to balance the target variable using SMOTE method
 
 ## 4. Deep Neural Network Architecture
 
