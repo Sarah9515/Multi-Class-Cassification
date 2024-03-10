@@ -5,6 +5,7 @@ In this project, we aim to perform multi-class classification using the Predicti
 ## 1. Data Preprocessing
 
 We'll use various preprocessing techniques to clean and standardize/normalize the dataset. This involves handling missing values, encoding categorical variables, and scaling numerical features.
+
 ![Screenshot 2024-03-10 192838](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/1a8b8aec-2dde-4ff8-a477-47fd324ad208)
 
 ![Screenshot 2024-03-10 192931](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/e24ce45d-4304-4498-a48c-b5276db0089a)
