@@ -2,6 +2,9 @@
 
 In this project, we aim to perform multi-class classification using the Predictive Maintenance Dataset. Below are the steps we'll follow along with explanations for each part:
 
+Throughout this lab, I delved into the intricacies of multi-class classification, a technique employed to categorize data into more than two distinct categories. The process entailed meticulous data preprocessing steps, ranging from handling missing values and encoding categorical variables to standardizing or normalizing the data to ensure uniformity across features. With the data suitably prepared, an Exploratory Data Analysis (EDA) ensued, offering insights into the dataset's characteristics through visualization techniques. Transitioning to the Deep Neural Network (DNN) phase, I constructed a Multilayer Perceptron (MLP) model tailored for our classification task. Equipped with a Cross-Entropy loss function and utilizing the Adam optimizer, the MLP model was primed for training. Following model definition, I embarked on the crucial steps of model training and subsequent evaluation to gauge its performance accurately.
+
+
 ## 1. Data Preprocessing
 
 We'll use various preprocessing techniques to clean and standardize/normalize the dataset. This involves handling missing values, encoding categorical variables, and scaling numerical features.
