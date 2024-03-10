@@ -64,4 +64,13 @@ Metrics such as accuracy, sensitivity, F1 score, etc., will be calculated on bot
 
 Regularization techniques are pivotal in mitigating overfitting, a common issue in machine learning models where the algorithm fits too closely to the training data, leading to poor generalization on unseen data. These techniques introduce constraints to the model's optimization process, promoting simpler and more generalized solutions. L1 and L2 regularization, also known as Lasso and Ridge regularization, respectively, impose penalties on the model's coefficients during training, encouraging smaller weights and reducing the model's sensitivity to individual data points. Dropout, another widely used technique, randomly deactivates a fraction of neurons during training, forcing the network to learn redundant representations and enhancing its robustness. Regularization techniques play a crucial role in achieving better model performance, improving generalization, and ensuring models are better equipped to handle diverse datasets and real-world scenarios.
 
+![téléchargé (5)](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/147f433e-5fa1-4bcc-b93d-e24d11bb7ba2)
+
+![téléchargé (6)](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/f5d2f3d6-e404-4cd6-9b4d-50dab14b837f)
+
+![Screenshot 2024-03-10 203817](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/1c71881d-37e9-4300-9ab8-b01853da4a9b)
+
+
+
+
 By following these steps, we aim to develop an efficient deep learning model for multi-class classification on the Predictive Maintenance Dataset.
