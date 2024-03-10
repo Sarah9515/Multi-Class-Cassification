@@ -18,15 +18,18 @@ We'll use various preprocessing techniques to clean and standardize/normalize th
 
 EDA techniques will be applied to gain insights into the dataset's structure, distribution of features, relationships between variables, and potential patterns.
 
-![Screenshot 2024-03-10 192213](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/9505a37e-7d12-42d2-82eb-7cbe32b6beb2)
+![téléchargé (4)](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/b9e8fc73-7751-4ebe-9854-296f3aade986)
 
-![Screenshot 2024-03-10 192349](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/33d377b3-5b28-408d-9a60-006b01a77928)
+![téléchargé (3)](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/4615bd9a-6e30-4535-b412-7ecb2c277797)
+
+
 
 ## 3. Data Augmentation
 
 To address class imbalance, data augmentation techniques such as oversampling, undersampling, or synthetic data generation will be applied to balance the dataset.
 
-![Screenshot 2024-03-10 192442](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/8e42d9e7-8e8d-4259-bc16-0b5fef7b99fc)
+![téléchargé (2)](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/7e2e95cc-555f-467e-8161-3778dd5c52c9)
+
 
 So we need to balance the target variable using SMOTE method
 
@@ -42,9 +45,11 @@ GridSearch tool from sklearn library will be utilized to choose the best hyperpa
 
 Loss and accuracy metrics will be plotted against epochs for both training and test datasets. Interpretations will be provided based on the trends observed in the graphs.
 
-![Screenshot 2024-03-10 194722](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/55980192-65ca-4adf-8ad8-673ffb59dc84)
+![téléchargé](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/8106fd1e-a9e0-45cf-bb72-6425fc7a1e20)
 
-![Screenshot 2024-03-10 194751](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/b9f91fb8-128d-4622-832d-ea5c70e6152f)
+![téléchargé (1)](https://github.com/Sarah9515/Multi-Class-Cassification/assets/72395246/07b37113-7cd3-4253-a8e4-763a1df7f49a)
+
+
 
 
 
